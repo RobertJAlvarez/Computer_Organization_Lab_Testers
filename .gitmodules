@@ -1,0 +1,9 @@
+[submodule "Lab1_Bitwise_and_pointers-Tester"]
+	path = Lab1-Bitwise_and_pointers-Tester
+  url = https://github.com/RobertJAlvarez/Lab1-Bitwise_and_pointers-Tester.git
+[submodule "Lab2.1-Arrays-Tester"]
+	path = Lab2.1-Arrays-Tester
+	url = https://github.com/RobertJAlvarez/Lab2.1-Arrays-Tester.git
+[submodule "Lab2.2-RV32_Interpreter-Tester"]
+	path = Lab2.2-RV32_Interpreter-Tester
+	url = https://github.com/RobertJAlvarez/Lab2.2-RV32_Interpreter-Tester.git
