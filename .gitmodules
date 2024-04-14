@@ -7,3 +7,6 @@
 [submodule "Lab2.2-RV32_Interpreter-Tester"]
 	path = Lab2.2-RV32_Interpreter-Tester
 	url = https://github.com/RobertJAlvarez/Lab2.2-RV32_Interpreter-Tester.git
+[submodule "Lab3-Expression_Compiler-Tester"]
+	path = Lab3-Expression_Compiler-Tester
+	url = https://github.com/RobertJAlvarez/Lab3-Expression_Compiler-Tester
